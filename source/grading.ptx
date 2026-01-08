@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="Grading">
+
+  <title>Grading</title>
+  
+
+    <p>
+    </p>
+
+
+
+    <paragraphs>
+      <title>Practically Perfect Proofs</title>
+
+      <p>A practically perfect proof will be due approximately once a week.
+        Each will need to be practically perfect in order to receive credit.
+        If your work is not practically perfect, you will receive feedback and may resubmit the proof as many times as needed until the proof is practically perfect!
+      </p>
+
+      <p>
+        An honest attempt at each <m>P^3</m> assignment must be submitted on the initial due date in order to be eligible for revision.
+        Also, revisions must be submitted within one week of receiving feedback.
+        Use of outside sources such as Chegg, Math Overflow, ProofWiki, ChatGPT, or other students in the course will be considered academic dishonesty.
+        You will receive no credit for the assignment and not be allowed any revisions.
+      </p>
+    </paragraphs>
+
+
+    <paragraphs>
+      <title>Final Exam</title>
+
+      <p>
+        The final exam will be cumulative.
+        As you work through the semester, always keep this in mind.
+        You need to grow beyond basic understand to see things at a deeper level.
+        That is how you will retain them and be able to succeed on new problems!
+      </p>
+    </paragraphs>
+
+
+    <paragraphs>
+      <title>Assessment of Mathematical Engagement</title>
+
+      <p>
+        Your level of effort and engagement will be assessed through your participation in class and completion of a variety of homework assignments.
+        <dl>
+        <li>
+          <title>Participation</title>
+
+          <p>
+          </p>
+        </li>
+
+        <li>
+          <title>Daily Prep Assignments</title>
+
+          <p>
+          </p>
+        </li>
+
+        <li>
+          <title>Practice Problems</title>
+
+          <p>
+          </p>
+        </li>
+
+        <li>
+          <title>Written Homework</title>
+
+          <p>
+          </p>
+        </li>
+        </dl>
+      </p>
+    </paragraphs>
+
+
+    <paragraphs>
+      <title>Final Grades</title>
+
+      <p>
+        The following percentage weights are used for calculating your weighted course average.
+        <!-- Students needing to take MATH 180 Precalculus are required to earn a C (2.00) or better in MATH 123/123R Introduction to Functions. -->
+         <sbsgroup widths="20% 15%" margins="30%">
+          <sidebyside>
+            <p>$P^3$</p>
+            <p>15%</p>
+          </sidebyside>
+
+          <sidebyside>
+            <p>Exam 1</p>
+            <p>20%</p>
+          </sidebyside>
+  
+          <sidebyside>
+            <p>Exam 2</p>
+            <p>20%</p>
+          </sidebyside>
+
+          <sidebyside>
+            <p>Exam 3</p>
+            <p>20%</p>
+          </sidebyside>
+  
+          <sidebyside>
+            <p>Final Exam</p>
+            <p>25%</p>
+          </sidebyside>
+        </sbsgroup>  
+      </p>
+
+      <p>
+        Final grades will be assigned based on the following scale.
+        <sbsgroup widths="10% 15%" margins="35%">
+          <sidebyside>
+            <p>A</p>
+            <p>93-100</p>
+          </sidebyside>
+  
+          <sidebyside>
+            <p>A-</p>
+            <p>90-93</p>
+          </sidebyside>
+  
+          <sidebyside>
+            <p>B+</p>
+            <p>87-90</p>
+          </sidebyside>
+  
+          <sidebyside>
+            <p>B</p>
+            <p>83-87</p>
+          </sidebyside>
+  
+          <sidebyside>
+            <p>B-</p>
+            <p>80-83</p>
+          </sidebyside>
+  
+          <sidebyside>
+            <p>C+</p>
+            <p>77-80</p>
+          </sidebyside>
+  
+          <sidebyside>
+            <p>C</p>
+            <p>73-77</p>
+          </sidebyside>
+  
+          <sidebyside>
+            <p>C-</p>
+            <p>70-73</p>
+          </sidebyside>
+  
+          <sidebyside>
+            <p>D+</p>
+            <p>67-70</p>
+          </sidebyside>
+  
+          <sidebyside>
+            <p>D</p>
+            <p>63-67</p>
+          </sidebyside>
+          <sidebyside>
+            <p>D-</p>
+            <p>60-63</p>
+          </sidebyside>
+
+          <sidebyside>
+            <p>F</p>
+            <p>Below 60</p>
+          </sidebyside>
+
+        </sbsgroup>
+      
+      </p>
+    </paragraphs>
+
+
+</chapter>
