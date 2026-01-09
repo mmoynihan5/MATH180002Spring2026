@@ -5,11 +5,10 @@
 
   <introduction>
     <p>
-      Welcome to MATH 180, Section 001 for Spring 2026.
-
+      Welcome to MATH 180, Section 003 for Spring 2026!
     </p>
-  </introduction>
 
+    
     <p>
       <dl>
       <li>
@@ -40,7 +39,7 @@
         <title>Class meets</title>
 
         <p>
-          MW 2:30pm - 4:20pm in HA 510
+          MWRF 12:30pm - 1:20pm in HH 101
         </p>
       </li>
 
@@ -48,8 +47,8 @@
         <title>Course Description</title>
 
         <p>
-          An introduction to algebraic structures including groups, rings, and fields, and their sub-structures, as well as homomorphisms and isomorphisms.
-          Fundamental number theoretic topics are included to establish connections and provide examples in the context of abstract algebra.
+          A thorough preparation in the skills and topics needed to study calculus.
+          After a review of polynomial and rational functions and their graphs, topics include inverse functions, exponential and logarithmic functions, and trigonometric functions.
         </p>
       </li>
 
@@ -57,16 +56,17 @@
         <title>Prerequisite</title>
 
         <p>
-          Completion of MATH 226 Linear Algebra with a minimum grade of C (2.00) or higher.
+          Completion of MATH 123 Introduction to Functions with a minimum grade of C (2.00) or better, or a satisfactory score on the mathematics placement examination.
         </p>
       </li>
+
 
       <li>
         <title>Textbook</title>
 
         <p>
-          <pubtitle>Abstract Algebra: Theory and Applications</pubtitle>
-          by Thomas W. Judson. <url href="https://judsonbooks.org/aata-files/aata-html/aata.html" visual="judsonbooks/aata">Read Online</url>
+          <pubtitle>Precalculus</pubtitle>
+          by OpenStax (2nd edition). <url href="https://openstax.org/details/books/precalculus-2e" visual="openstax/precalculus">Read Online</url>
         </p>
 
 
@@ -92,36 +92,6 @@
       </dl>
     </p>
 
-
-   
-    <paragraphs>
-      <title>Course Goals</title>
-
-
-
-
-      <p>
-        <ul>
-          <li>
-            <p>Extend your mathematical reasoning skills: abstracting, generalizing, and formal proof.
-            </p>
-          </li>
-
-          <li>
-            <p>Strengthen your mathematical writing with appropriate use of mathematical language, notation, and symbolism.
-            </p>
-          </li>
-
-
-<li>
-  <p>
-    Increase your confidence with the theoretic structure of mathematics: the role of definitions, examples, and theorems; abstract concepts; and logical reasoning.
-  </p>
-</li>
-          
-        </ul>
-      </p>
-    </paragraphs>
-
+  </introduction>
 
 </chapter>

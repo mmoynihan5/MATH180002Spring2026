@@ -4,28 +4,75 @@
 
   <title>Grading</title>
   
-
-    <p>
-    </p>
-
-
-
-    <paragraphs>
-      <title>Practically Perfect Proofs</title>
-
-      <p>A practically perfect proof will be due approximately once a week.
-        Each will need to be practically perfect in order to receive credit.
-        If your work is not practically perfect, you will receive feedback and may resubmit the proof as many times as needed until the proof is practically perfect!
-      </p>
+   <paragraphs>
+      <title>Homework</title>
 
       <p>
-        An honest attempt at each <m>P^3</m> assignment must be submitted on the initial due date in order to be eligible for revision.
-        Also, revisions must be submitted within one week of receiving feedback.
-        Use of outside sources such as Chegg, Math Overflow, ProofWiki, ChatGPT, or other students in the course will be considered academic dishonesty.
-        You will receive no credit for the assignment and not be allowed any revisions.
+        Homework is your opportunity to practice with feedback.
+        I expect that you work on the homework frequently.
+        Do not expect to complete assignments in a single sitting.
+
+        There are many outside resources (some good/bad and some ethnical/unethical) for completing math homework.
+        You should work on the homework in a way that prepares you for exams.
+        Our brains do not retain information that we don't work for.
       </p>
+
     </paragraphs>
 
+
+   <paragraphs>
+      <title>Standards-Based Grading (SBG)</title>
+
+      <p>
+    This semester 50% of your grade will be based on how many of the learning objectives you complete during the quizzes and exams.
+      </p>
+
+
+
+<p>
+  <alert>How will my Course Objectives grade be determined?</alert>
+
+Each objective will be scored on a 4-point scale and averaged like your GPA.
+</p>
+
+%\medskip
+%
+%Excellent (4 pts)
+%\quad Proficient (3 pts)
+%\quad Competent (2 pts)
+%\quad Developing (1 pt)
+%\quad Not Assessed (0 pts)
+
+\end{quote}
+
+
+
+  <p>
+  <alert>How many reattempts do I have for each objective?</alert>
+    You will have at most two attempts at each objective during the semester.
+You will also only be able to complete so many objectives during the in-person exams and that will provide a limit on how many reattempts there are by the end of the semester.
+You will want to successfully complete some objectives on the first try to avoid falling behind.
+Also, the cumulative final exam is a third attempt at (most) objectives!
+</p>
+
+
+
+<p>
+  <alert>What is great about this?</alert>
+  If you do not do well on the first attempt but you go back and learn the material, your better second attempt will be your grade!
+Knowing the material is the important thing and I do not want to penalize you for a mistake while learning.
+</p>
+
+
+
+
+  <p>
+    <alert>Where do students go wrong with this style of grading?</alert>
+  They focus too strongly on only the reattempts and save the new material for later.
+  This then means they get a 0 on the first attempt and are back to the old style of grading where there is no chance to improve from a constructive first attempt.
+  </p>
+
+    </paragraphs>
 
     <paragraphs>
       <title>Final Exam</title>
@@ -39,42 +86,6 @@
     </paragraphs>
 
 
-    <paragraphs>
-      <title>Assessment of Mathematical Engagement</title>
-
-      <p>
-        Your level of effort and engagement will be assessed through your participation in class and completion of a variety of homework assignments.
-        <dl>
-        <li>
-          <title>Participation</title>
-
-          <p>
-          </p>
-        </li>
-
-        <li>
-          <title>Daily Prep Assignments</title>
-
-          <p>
-          </p>
-        </li>
-
-        <li>
-          <title>Practice Problems</title>
-
-          <p>
-          </p>
-        </li>
-
-        <li>
-          <title>Written Homework</title>
-
-          <p>
-          </p>
-        </li>
-        </dl>
-      </p>
-    </paragraphs>
 
 
     <paragraphs>
@@ -82,26 +93,20 @@
 
       <p>
         The following percentage weights are used for calculating your weighted course average.
-        <!-- Students needing to take MATH 180 Precalculus are required to earn a C (2.00) or better in MATH 123/123R Introduction to Functions. -->
          <sbsgroup widths="20% 15%" margins="30%">
           <sidebyside>
-            <p>$P^3$</p>
-            <p>15%</p>
+            <p>Homework</p>
+            <p>10%</p>
           </sidebyside>
 
           <sidebyside>
-            <p>Exam 1</p>
-            <p>20%</p>
+            <p>Course Objectives</p>
+            <p>50%</p>
           </sidebyside>
   
           <sidebyside>
-            <p>Exam 2</p>
-            <p>20%</p>
-          </sidebyside>
-
-          <sidebyside>
-            <p>Exam 3</p>
-            <p>20%</p>
+            <p>Midterm Exam</p>
+            <p>15%</p>
           </sidebyside>
   
           <sidebyside>
@@ -113,6 +118,7 @@
 
       <p>
         Final grades will be assigned based on the following scale.
+        Students needing to take MATH 219 Calculus I are required to earn a C (2.00) or better in MATH 180 Precalculus.
         <sbsgroup widths="10% 15%" margins="35%">
           <sidebyside>
             <p>A</p>
@@ -172,7 +178,6 @@
             <p>F</p>
             <p>Below 60</p>
           </sidebyside>
-
         </sbsgroup>
       
       </p>
